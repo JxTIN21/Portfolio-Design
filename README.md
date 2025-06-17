@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Jatin Srivastava - [jatinsrivastava@gmail.com](mailto:jatinsrivastava@gmail.com)
+Jatin Srivastava - [jatinsrivastava4104@gmail.com](mailto:jatinsrivastava4104@gmail.com)
 
 LinkedIn: [www.linkedin.com/in/jatin-srivastava-784223253](www.linkedin.com/in/jatin-srivastava-784223253)
 
