@@ -1,4 +1,4 @@
-# Siddharth Verma - Portfolio Website
+# Portfolio Website
 
 A modern, responsive portfolio website built with React and Tailwind CSS, showcasing professional experience in hotel management and hospitality.
 
